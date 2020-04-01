@@ -1,0 +1,7 @@
+C:\Users\sashv\source\repos\slovar\slovar\bin\Debug\slovar.exe.config
+C:\Users\sashv\source\repos\slovar\slovar\bin\Debug\slovar.exe
+C:\Users\sashv\source\repos\slovar\slovar\bin\Debug\slovar.pdb
+C:\Users\sashv\source\repos\slovar\slovar\obj\Debug\slovar.csprojAssemblyReference.cache
+C:\Users\sashv\source\repos\slovar\slovar\obj\Debug\slovar.csproj.CoreCompileInputs.cache
+C:\Users\sashv\source\repos\slovar\slovar\obj\Debug\slovar.exe
+C:\Users\sashv\source\repos\slovar\slovar\obj\Debug\slovar.pdb
